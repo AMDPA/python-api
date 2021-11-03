@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-))#d-t+^=znt2zj7#a=t+=^w!*y!-dt7wjsb4^3af_4*0m-#=+
 
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://api-amacpa.herokuapp.com/"]
+ALLOWED_HOSTS = ["https://api-amacpa2.herokuapp.com/"]
 
 
 # Application definition

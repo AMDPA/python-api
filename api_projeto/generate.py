@@ -80,7 +80,7 @@ def create_pdf(email_usuario, hora_inicial, hora_final, tb):
 	f.write(finalData)
 	f.close()
 	
-	os.system('php pdf_amdpa\\generate.php')
+	os.system('php pdf_amdpa/generate.php')
 
 	# o programa cria um arquivo data.html e 
 	# executa o script generate.php que cria um arquivo relatorio.pdf
